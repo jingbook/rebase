@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="i'm git"/>
+    <HelloWorld msg="i'm gitcls"/>
   </div>
 </template>
 
